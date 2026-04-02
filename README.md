@@ -8,14 +8,35 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Solving+Real+World+Problems" />
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80px" />
+</p>
+
+
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="60%">
 
-* 🎓 3rd Year **Computer Science Engineering Student @ BMSCE**
-* 📊 Interested in **Data Analytics, Data Science & Machine Learning**
-* 🧠 Skilled in **Python (Pandas, NumPy), SQL, Excel, Power BI**
-* 💻 Also experienced in **HTML, CSS, JavaScript**
+## 🧠 About Me
+
+* 🎓 3rd Year Computer Science Engineering Student @ BMSCE
+* 📊 Interested in Data Analytics, Data Science & Machine Learning
+* 🧠 Skilled in Python (Pandas, NumPy), SQL, Excel, Power BI
+* 💻 Also experienced in HTML, CSS, JavaScript
+* 🧑‍💼 Senior Coordinator @ **CodeIO Club, BMSCE**
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
