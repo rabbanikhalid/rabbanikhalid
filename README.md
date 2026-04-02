@@ -97,5 +97,5 @@
 
 ## 🌐 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/khalid-rabbani/)
+* 💼 Linked In: [LinkedIn](https://www.linkedin.com/in/khalid-rabbani/)
 * 📧 Email: [khalidrabbani06@gmail.com](mailto:khalidrabbani06@gmail.com)
