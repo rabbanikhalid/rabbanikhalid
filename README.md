@@ -74,7 +74,7 @@
 
 ---
 
-### 📊 Customer Behavior Dashboard
+### 📊 Customer Behavior Analysis
 
 * Analyzed customer data using **Python + SQL**
 * Performed EDA to uncover purchasing patterns
