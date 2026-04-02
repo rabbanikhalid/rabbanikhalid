@@ -1,16 +1,16 @@
-<h1 align="center">Hey 👋, I'm Khalid Rabbani</h1>
+<h1 align="center">Khalid Rabbani 👋</h1>
 
 <p align="center">
-📊 Data Analytics • 🤖 Machine Learning • 💻 CS @ BMSCE
+📊 Data Analytics • 🤖 Data Science & Machine Learning • 💻 CS @ BMSCE
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=DB2777&size=25&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Solving+Real+World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=9333EA&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Solving+Real+World+Problems" />
 </p>
 
 ---
 
-## 🔥 About Me
+## 👨‍💻 About Me
 
 * 🎓 3rd Year **Computer Science Engineering Student @ BMSCE**
 * 📊 Interested in **Data Analytics, Data Science & Machine Learning**
@@ -73,13 +73,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rabbanikhalid&show_icons=true&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect with Me
 
