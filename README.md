@@ -80,7 +80,7 @@
 * Performed EDA to uncover purchasing patterns
 * Built an **interactive Power BI dashboard** for insights
 
-🔗 h🔗 [View Project](https://github.com/rabbanikhalid/customer-behavior-data-analysis-SQL-Python-PowerBI)
+🔗 🔗 [View Project](https://github.com/rabbanikhalid/customer-behavior-data-analysis-SQL-Python-PowerBI)
 
 ---
 
