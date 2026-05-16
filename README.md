@@ -64,6 +64,15 @@
 
 ---
 
+### 🔬 Breast Cancer Tumor Diagnostic
+* Compared **5 ML models** (Logistic Regression, KNN, SVM, Random Forest, XGBoost) to classify tumors as malignant or benign
+* Achieved **97.37% accuracy & 100% Precision** using SVM with GridSearchCV hyperparameter tuning
+* Identified `area_worst` & `concave points_worst` as top predictors via **Random Forest feature importance**
+
+🔗 [View Project](https://github.com/rabbanikhalid/Cancer-Tumor-Diagnostic)
+
+---
+
 ### ⚽ Sports Injury & Performance Analysis
 
 * Analyzed **600+ Premier League injury records (2019–2023)**
