@@ -21,10 +21,11 @@
 
 ## 🧠 About Me
 
-* 🎓 3rd Year Computer Science Engineering Student @ BMSCE
+* 🎓 Final year Computer Science Engineering Student @ BMSCE
 * 📊 Interested in Data Analytics, Data Science & Machine Learning
 * 🧠 Skilled in Python, Machine Learning, SQL, Excel, Power BI, 
 * 💻 Also experienced in HTML, CSS, JavaScript
+* 💻 Ex Intern @ **DarkOcean SPC LLC, Qatar**
 * 🧑‍💼 Senior Coordinator @ **CodeIO Club, BMSCE**
 
 </td>
